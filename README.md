@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python programming, AI-ML & GenAI**
 
-- 👨‍💻 All of my projects are available at [imsushant.13@gmail.com](imsushant.13@gmail.com)
+- 👨‍💻 All of my projects are available at [imsushant.13@gmail.com](https://github.com/imsushant13)
 
 - 💬 Ask me about **web development**
 
